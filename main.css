@@ -1,0 +1,9 @@
+body {
+    margin: auto;
+    width: 50%;
+}
+
+.representative__header {
+    color:darkolivegreen;
+    font-family: 'Anton', sans-serif;
+}
